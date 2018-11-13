@@ -13,7 +13,7 @@ All you need is to download the website files using this [link](https://github.c
 Copyright (c) 2018 Zeina Kittaneh
 
 This project was submitted by Zeina Kittaneh as part of the Nanodegree At Udacity.
-It was built a conversion of the design mockup given over [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/November/5a136147_design-mockup-portfolio/design-mockup-portfolio.pdf)
+It was built as a conversion of the design mockup given over [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/November/5a136147_design-mockup-portfolio/design-mockup-portfolio.pdf)
 
 As part of Udacity Honor code, your submissions must be your own work, hence
 submitting this project as yours will cause you to break the Udacity Honor Code
